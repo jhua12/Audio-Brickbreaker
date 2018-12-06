@@ -13,6 +13,4 @@ Install PyAudio with 'brew install portaudio' in terminal and 'pip install pyaud
 Intall NumPy with 'sudo pip3 install numpy' in terminal
 (Details at https://scipy.org/install.html)
 
-Next, open the "arcade.ttf" file and make sure you have the font installed with the name "ArcadeClassic"
-
-
+Finally, open the "arcade.ttf" file and make sure you have the font installed with the name "ArcadeClassic"
